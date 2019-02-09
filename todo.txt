@@ -1,0 +1,4 @@
+make top navbar into dropdown menu 
+add files into blog system
+put basic contact info/cv ish stuff in cv page
+have basic welcome page, can maybe share ^? what do others do?
